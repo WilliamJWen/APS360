@@ -1,3 +1,4 @@
+# helper function
 def printHappy():
     print("happy")
 
